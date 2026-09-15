@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <em class="fas fa-store-alt"></em>
-                    <span>Nexus<span class="accent">Shop</span></span>
+                    <span>Nexus<span class="accent">Shopping</span></span>
                 </a>
             </div>
 
@@ -1139,8 +1139,8 @@
                     <li><a href="#" class="active"><i class="fas fa-home"></i> Home</a></li>
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
                     <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
+                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals and Offers </a></li>
+                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews and Suggestions</a></li>
                 </ul>
             </nav>
 
@@ -1170,8 +1170,8 @@
                     <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
                     <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
+                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals and Offers</a></li>
+                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews and Suggestions</a></li>
                     <li><a href="#"><i class="far fa-user"></i> Account</a></li>
                     <li><a href="#"><i class="far fa-heart"></i> Wishlist</a></li>
                 </ul>
